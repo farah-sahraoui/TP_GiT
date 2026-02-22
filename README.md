@@ -128,7 +128,11 @@ Retour sur la branche principale main.
 Fusion de la branche fr-main avec git merge fr-main.
 Affichage de l’historique des commits avec git log --oneline --graph --all.
 
-![WhatsApp Image 2026-02-22 at 21 40 27](https://github.com/user-attachments/assets/a329a211-29c7-427f-9506-85b0c87fbce5)                          ![WhatsApp Image 2026-02-22 at 21 40 27](https://github.com/user-attachments/assets/8b0632b2-b668-410f-960c-c8307b08a0e4)
+![WhatsApp Image 2026-02-22 at 21 40 27](https://github.com/user-attachments/assets/a329a211-29c7-427f-9506-85b0c87fbce5)        
+
+
+![WhatsApp Image 2026-02-22 at 21 41 45](https://github.com/user-attachments/assets/9b64912b-2457-4b87-81ef-64e5708a174b)
+
 
 
 ## Conclusion du TP :
